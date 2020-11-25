@@ -1,0 +1,25 @@
+/**/
+.menu {
+padding: 0;
+position: relative;
+}
+.item {
+color: white;
+background: #81d0cb;
+line-height: 1.5;
+padding: 0.5em 0.5em 0.5em 2em;
+border-left: 10px solid #1fa67a;
+border-bottom: 2px solid white;
+list-style-type: none !important;
+font-weight: bold;
+}
+.item-selected {
+color: white;
+background: #ee8e0f;
+line-height: 1.5;
+padding: 0.5em 0.5em 0.5em 2em;
+border-bottom: 2px solid white;
+list-style-type: none !important;
+font-weight: bold;
+}
+
